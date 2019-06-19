@@ -1,6 +1,6 @@
 package springbucks.waiter.support;
 
-import geektime.spring.springbucks.waiter.service.CoffeeService;
+import springbucks.waiter.service.CoffeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;

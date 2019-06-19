@@ -1,6 +1,6 @@
 package springbucks.waiter.service;
 
-import geektime.spring.springbucks.waiter.integration.Barista;
+import springbucks.waiter.integration.Barista;
 import springbucks.waiter.model.Coffee;
 import springbucks.waiter.model.CoffeeOrder;
 import springbucks.waiter.model.OrderState;
