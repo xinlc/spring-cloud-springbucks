@@ -47,3 +47,6 @@ Zipkin | 服务链路追踪 | [https://zipkin.io](https://zipkin.io)
 Log4J | 日志组件  | [http://logging.apache.org/log4j/1.2/](http://logging.apache.org/log4j/1.2/)
 Docker | 容器 | [https://www.docker.com](https://www.docker.com)
 Maven | 项目构建管理  | [http://maven.apache.org](http://maven.apache.org)
+
+## 项目流程
+![](./springbucks.jpg)
